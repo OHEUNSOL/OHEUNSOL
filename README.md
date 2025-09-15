@@ -4,15 +4,6 @@
 지표로 문제를 정의하고, 안정성과 확장성을 함께 가져가는 아키텍처를 지향합니다.
 </p>
 
-<!-- 배지들 -->
-<p align="center">
-  <!-- 방문자 카운터 -->
-  <img src="https://komarev.com/ghpvc/?username=TODO_GITHUB_ID&style=for-the-badge" alt="profile views" />
-  <!-- 연락 배지들 -->
-  <a href="mailto:TODO_EMAIL"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</p>
-
 ---
 
 ## 👤 About Me
@@ -57,14 +48,6 @@
 
 ---
 
-## 📊 Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TODO_GITHUB_ID&show_icons=true&count_private=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TODO_GITHUB_ID&layout=compact&hide_title=true" />
-</p>
-
----
-
 ## 📫 Contact
-- Email: **TODO_EMAIL**
-- Blog: **https://velog.io/@TODO_VELOG**
+- Email: **eunsol037@naver.com**
+- Blog: **https://velog.io//@dmsthfss**
