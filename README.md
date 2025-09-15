@@ -43,7 +43,7 @@
 - 역할: **예약·결제 도메인 백엔드 / Kafka 전환 / 성능 테스트(k6) / Observability**
 - 성과(예시): **TPS 2.9배**, 예약 슬롯 삽입 **33분 → 16초**, 리소스 비용 절감
 - 기술: Spring Boot, Kafka, MySQL, Redis, Docker
-- 레포: [개인 리팩토링 (주요 성과 정리)](https://github.com/OHEUNSOL/TablePick-BackEnd)
+- 레포: [개인 리팩토링 (주요 성과 정리)](https://github.com/OHEUNSOL/TablePick-Refactor)
   > *초기 개발은 팀 프로젝트(2개월)로 진행되었으며, 이후 개인 레포에서 구조 개선과 성능 최적화를 지속했습니다.*
 
 ---
