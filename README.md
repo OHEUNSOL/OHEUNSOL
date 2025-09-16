@@ -48,6 +48,13 @@
 
 ---
 
+## 📚 Algorithm Practice
+- [Baekjoon-Algorithm](https://github.com/OHEUNSOL/algorithm-study)  
+  > **주 목표: 하루 2문제 풀이** (골드 이상 위주).  
+  > 자동 커밋을 통해 **꾸준히 문제 풀이 기록을 관리**하고 있습니다.
+
+---  
+
 ## 📫 Contact
 - Email: **eunsol037@naver.com**
 - Blog: **https://velog.io//@dmsthfss**
