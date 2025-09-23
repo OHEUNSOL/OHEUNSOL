@@ -39,7 +39,7 @@
 ## 🚀 Selected Projects
 > 자세한 내용은 각 레포의 README에서 **아키텍처/지표/트러블슈팅**을 확인하세요.
 
-### 1) 식당 예약·결제 플랫폼 **TablePick** 
+### 1) 식당 예약·결제 플랫폼
 - 역할: **예약·결제 도메인 (백엔드)**
 - 기술: Spring Boot, Kafka, JPA, MySQL, Redis, Docker, JaCoCo, Mokito
 - 레포: [TABLEPICK](https://github.com/OHEUNSOL/TablePick-Refactor)
