@@ -39,12 +39,27 @@
 ## 🚀 Selected Projects
 > 자세한 내용은 각 레포의 README에서 **아키텍처/지표/트러블슈팅**을 확인하세요.
 
-### 1) 식당 예약·결제 플랫폼 **TablePick**
-- 역할: **예약·결제 도메인 백엔드 / Kafka 전환 / 성능 테스트(k6) / Observability**
-- 성과(예시): **TPS 2.9배**, 예약 슬롯 삽입 **33분 → 16초**, 리소스 비용 절감
-- 기술: Spring Boot, Kafka, MySQL, Redis, Docker
-- 레포: [개인 리팩토링 (주요 성과 정리)](https://github.com/OHEUNSOL/TablePick-Refactor)
+### 1) 식당 예약·결제 플랫폼 **TablePick** 
+- 역할: **예약·결제 도메인 (백엔드)**
+- 기술: Spring Boot, Kafka, JPA, MySQL, Redis, Docker, JaCoCo, Mokito
+- 레포: [TABLEPICK](https://github.com/OHEUNSOL/TablePick-Refactor)
   > *초기 개발은 팀 프로젝트(2개월)로 진행되었으며, 이후 개인 레포에서 구조 개선과 성능 최적화를 지속했습니다.*
+
+---
+
+### 2) 차량 부품 창고 관리 시스템
+*(현대오토에버 모빌리티 SW스쿨, 6인 참여)*  
+- 역할: **입고·재고 도메인 (백엔드)**
+- 기술: Spring Boot, JPA, MySQL, Redis, Elastic APM, JaCoCo, Mokito
+- 레포: [WMS](https://github.com/OHEUNSOL/WMS)
+
+---
+
+### 3) 중고차 거래 모바일 애플리케이션
+*(현대오토에버 모빌리티 SW스쿨, 5인 참여)*  
+- 역할: **Thymeleaf 기반 관리자 페이지, 로그인 (백엔드)**
+- 기술: Spring Boot, Spring Security, JWT, OAuth 2.0, Thymeleaf, JPA, MySQL, Docker
+- 레포: [TAVOLKA](https://github.com/hyundai-autoever-third-project-team2)
 
 ---
 
