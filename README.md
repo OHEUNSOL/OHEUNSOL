@@ -39,7 +39,7 @@
 ## 🚀 Selected Projects
 > 자세한 내용은 각 레포의 README에서 **아키텍처/지표/트러블슈팅**을 확인하세요.
 
-### 1) 식당 예약·결제 플랫폼
+### 1) 식당 예약·결제 플랫폼 2025.04 - 2025.06 | Revision 2025.09 ~
 - 역할: **예약·결제 도메인 (백엔드), 인프라**
 - 기술: Spring Boot, Kafka, JPA, MySQL, Redis, Docker, JaCoCo, Mokito
 - 레포: [TABLEPICK](https://github.com/OHEUNSOL/TablePick-Refactor)
@@ -47,7 +47,7 @@
 
 ---
 
-### 2) 차량 부품 창고 관리 시스템
+### 2) 차량 부품 창고 관리 시스템 2025.01 - 2025.02
 *(현대오토에버 모빌리티 SW스쿨, 6인 참여)*  
 - 역할: **입고·재고 도메인 (백엔드), 인프라**
 - 기술: Spring Boot, JPA, MySQL, Redis, Elastic APM, JaCoCo, Mokito
@@ -55,7 +55,7 @@
 
 ---
 
-### 3) 중고차 거래 모바일 애플리케이션
+### 3) 중고차 거래 모바일 애플리케이션 2025.12 - 2025.01
 *(현대오토에버 모빌리티 SW스쿨, 5인 참여)*  
 - 역할: **Thymeleaf 기반 관리자 페이지, 로그인 (백엔드)**
 - 기술: Spring Boot, Spring Security, JWT, OAuth 2.0, Thymeleaf, JPA, MySQL, Docker
